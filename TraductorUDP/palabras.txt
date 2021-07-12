@@ -1,0 +1,7 @@
+casa=home
+carro=car
+computadora=computer
+silla=chair
+mesa=table
+pelicula=movie
+celular=smartphone
